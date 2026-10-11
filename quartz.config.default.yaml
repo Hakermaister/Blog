@@ -46,7 +46,7 @@ plugins:
     options:
       defaultDateType: modified
       priority:
-        - frontmatter
+        - frontmatter++
         - git
         - filesystem
     order: 10
