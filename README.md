@@ -1,4 +1,4 @@
-# Repozytorium Bloga [Hakermaister](http://hakermaister.pl/) 
+# Repozytorium Bloga [Patryk Sarna](http://patryksarna.com/) 
 
 Create with Quartz:
 https://github.com/jackyzha0/quartz
